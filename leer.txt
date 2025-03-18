@@ -1,0 +1,4 @@
+dejar services-details.html
+      starter-page.html 
+
+por si hay nuevos agregados
